@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ATUALIZA-O-ECOMMERCE\\ATUALIZA-O-ECOMMERCE-PARA-O-NET-8-AULA-SEM-ALTERACAO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|c:\\atualiza-o-ecommerce\\atualiza-o-ecommerce-para-o-net-8-aula-sem-alteracao\\web_ecommerce\\web_ecommerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|solutionrelative:web_ecommerce\\web_ecommerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1EF039-329C-437B-A3FB-FFC4C9E4AA8B}|HelpConfig\\HelpConfig.csproj|c:\\atualiza-o-ecommerce\\atualiza-o-ecommerce-para-o-net-8-aula-sem-alteracao\\helpconfig\\helpconfig.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB1EF039-329C-437B-A3FB-FFC4C9E4AA8B}|HelpConfig\\HelpConfig.csproj|solutionrelative:helpconfig\\helpconfig.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52DF3D0B-689A-4C02-B719-C47A7DF628C9}|UnitTestEcommerceDDD\\UnitTestEcommerceDDD.csproj|c:\\atualiza-o-ecommerce\\atualiza-o-ecommerce-para-o-net-8-aula-sem-alteracao\\unittestecommerceddd\\unittestecommerceddd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{52DF3D0B-689A-4C02-B719-C47A7DF628C9}|UnitTestEcommerceDDD\\UnitTestEcommerceDDD.csproj|solutionrelative:unittestecommerceddd\\unittestecommerceddd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A85466D-8816-4DCA-B9EF-AC9713EFEDFE}|ConsumoAPI\\ConsumoAPI.csproj|c:\\atualiza-o-ecommerce\\atualiza-o-ecommerce-para-o-net-8-aula-sem-alteracao\\consumoapi\\consumoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A85466D-8816-4DCA-B9EF-AC9713EFEDFE}|ConsumoAPI\\ConsumoAPI.csproj|solutionrelative:consumoapi\\consumoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D196355-F49A-4217-B505-4EA51B74C18B}|Entities\\Entities.csproj|c:\\atualiza-o-ecommerce\\atualiza-o-ecommerce-para-o-net-8-aula-sem-alteracao\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D196355-F49A-4217-B505-4EA51B74C18B}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBE57BF-196B-4B61-AE15-48073B8DD1DC}|Infrastructure\\Infrastructure.csproj|c:\\atualiza-o-ecommerce\\atualiza-o-ecommerce-para-o-net-8-aula-sem-alteracao\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BBBE57BF-196B-4B61-AE15-48073B8DD1DC}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C930362-19BD-4B4C-A6C7-6EAED4C02576}|Domain\\Domain.csproj|c:\\atualiza-o-ecommerce\\atualiza-o-ecommerce-para-o-net-8-aula-sem-alteracao\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C930362-19BD-4B4C-A6C7-6EAED4C02576}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D295E5-1F86-4D8F-96C2-F8C78BEA1A7D}|ApplicationApp\\ApplicationApp.csproj|c:\\atualiza-o-ecommerce\\atualiza-o-ecommerce-para-o-net-8-aula-sem-alteracao\\applicationapp\\applicationapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05D295E5-1F86-4D8F-96C2-F8C78BEA1A7D}|ApplicationApp\\ApplicationApp.csproj|solutionrelative:applicationapp\\applicationapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1748A494-2C35-4A46-9F3C-65CF2D821191}|WebApiSite\\WebApiSite.csproj|c:\\atualiza-o-ecommerce\\atualiza-o-ecommerce-para-o-net-8-aula-sem-alteracao\\webapisite\\webapisite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1748A494-2C35-4A46-9F3C-65CF2D821191}|WebApiSite\\WebApiSite.csproj|solutionrelative:webapisite\\webapisite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelpConfig",
+              "DocumentMoniker": "C:\\ATUALIZA-O-ECOMMERCE\\ATUALIZA-O-ECOMMERCE-PARA-O-NET-8-AULA-SEM-ALTERACAO\\HelpConfig\\HelpConfig.csproj",
+              "RelativeDocumentMoniker": "HelpConfig\\HelpConfig.csproj",
+              "ToolTip": "C:\\ATUALIZA-O-ECOMMERCE\\ATUALIZA-O-ECOMMERCE-PARA-O-NET-8-AULA-SEM-ALTERACAO\\HelpConfig\\HelpConfig.csproj",
+              "RelativeToolTip": "HelpConfig\\HelpConfig.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T01:12:30.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTestEcommerceDDD",
+              "DocumentMoniker": "C:\\ATUALIZA-O-ECOMMERCE\\ATUALIZA-O-ECOMMERCE-PARA-O-NET-8-AULA-SEM-ALTERACAO\\UnitTestEcommerceDDD\\UnitTestEcommerceDDD.csproj",
+              "RelativeDocumentMoniker": "UnitTestEcommerceDDD\\UnitTestEcommerceDDD.csproj",
+              "ToolTip": "C:\\ATUALIZA-O-ECOMMERCE\\ATUALIZA-O-ECOMMERCE-PARA-O-NET-8-AULA-SEM-ALTERACAO\\UnitTestEcommerceDDD\\UnitTestEcommerceDDD.csproj",
+              "RelativeToolTip": "UnitTestEcommerceDDD\\UnitTestEcommerceDDD.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T01:12:22.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entities",
+              "DocumentMoniker": "C:\\ATUALIZA-O-ECOMMERCE\\ATUALIZA-O-ECOMMERCE-PARA-O-NET-8-AULA-SEM-ALTERACAO\\Entities\\Entities.csproj",
+              "RelativeDocumentMoniker": "Entities\\Entities.csproj",
+              "ToolTip": "C:\\ATUALIZA-O-ECOMMERCE\\ATUALIZA-O-ECOMMERCE-PARA-O-NET-8-AULA-SEM-ALTERACAO\\Entities\\Entities.csproj",
+              "RelativeToolTip": "Entities\\Entities.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T01:12:10.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "C:\\ATUALIZA-O-ECOMMERCE\\ATUALIZA-O-ECOMMERCE-PARA-O-NET-8-AULA-SEM-ALTERACAO\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\ATUALIZA-O-ECOMMERCE\\ATUALIZA-O-ECOMMERCE-PARA-O-NET-8-AULA-SEM-ALTERACAO\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T01:12:03.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\ATUALIZA-O-ECOMMERCE\\ATUALIZA-O-ECOMMERCE-PARA-O-NET-8-AULA-SEM-ALTERACAO\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\ATUALIZA-O-ECOMMERCE\\ATUALIZA-O-ECOMMERCE-PARA-O-NET-8-AULA-SEM-ALTERACAO\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T01:11:54.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsumoAPI",
+              "DocumentMoniker": "C:\\ATUALIZA-O-ECOMMERCE\\ATUALIZA-O-ECOMMERCE-PARA-O-NET-8-AULA-SEM-ALTERACAO\\ConsumoAPI\\ConsumoAPI.csproj",
+              "RelativeDocumentMoniker": "ConsumoAPI\\ConsumoAPI.csproj",
+              "ToolTip": "C:\\ATUALIZA-O-ECOMMERCE\\ATUALIZA-O-ECOMMERCE-PARA-O-NET-8-AULA-SEM-ALTERACAO\\ConsumoAPI\\ConsumoAPI.csproj",
+              "RelativeToolTip": "ConsumoAPI\\ConsumoAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T01:11:13.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationApp",
+              "DocumentMoniker": "C:\\ATUALIZA-O-ECOMMERCE\\ATUALIZA-O-ECOMMERCE-PARA-O-NET-8-AULA-SEM-ALTERACAO\\ApplicationApp\\ApplicationApp.csproj",
+              "RelativeDocumentMoniker": "ApplicationApp\\ApplicationApp.csproj",
+              "ToolTip": "C:\\ATUALIZA-O-ECOMMERCE\\ATUALIZA-O-ECOMMERCE-PARA-O-NET-8-AULA-SEM-ALTERACAO\\ApplicationApp\\ApplicationApp.csproj",
+              "RelativeToolTip": "ApplicationApp\\ApplicationApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T01:11:03.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebApiSite",
+              "DocumentMoniker": "C:\\ATUALIZA-O-ECOMMERCE\\ATUALIZA-O-ECOMMERCE-PARA-O-NET-8-AULA-SEM-ALTERACAO\\WebApiSite\\WebApiSite.csproj",
+              "RelativeDocumentMoniker": "WebApiSite\\WebApiSite.csproj",
+              "ToolTip": "C:\\ATUALIZA-O-ECOMMERCE\\ATUALIZA-O-ECOMMERCE-PARA-O-NET-8-AULA-SEM-ALTERACAO\\WebApiSite\\WebApiSite.csproj",
+              "RelativeToolTip": "WebApiSite\\WebApiSite.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T01:11:02.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web_ECommerce",
+              "DocumentMoniker": "C:\\ATUALIZA-O-ECOMMERCE\\ATUALIZA-O-ECOMMERCE-PARA-O-NET-8-AULA-SEM-ALTERACAO\\Web_ECommerce\\Web_ECommerce.csproj",
+              "RelativeDocumentMoniker": "Web_ECommerce\\Web_ECommerce.csproj",
+              "ToolTip": "C:\\ATUALIZA-O-ECOMMERCE\\ATUALIZA-O-ECOMMERCE-PARA-O-NET-8-AULA-SEM-ALTERACAO\\Web_ECommerce\\Web_ECommerce.csproj",
+              "RelativeToolTip": "Web_ECommerce\\Web_ECommerce.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T01:10:47.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
